@@ -15,7 +15,7 @@ Task three involves the use of K-NN algorithm used in a supervised learning envi
 This task shows my understanding of the K-Means Clustering method, which is completed in an unsupervised learning environment. It can be found in the folder named 'UnsupervisedLearning_Clustering'.
 
 ### Task Five (10 Points) Essay
-For task 5, I chose to write an essay with the title 'Privacy In the Age of AI: Navigating the Ethical Dimensions of Machine Learning'. My essay can be found the README.md file with the name 'PrivacyInTheAgeOfAIEssay'.
+For task 5, I chose to write an essay with the title 'Privacy In the Age of AI: Navigating the Ethical Dimensions of Machine Learning'. My essay can be found in the file with the name 'PrivacyInTheAgeOfAIEssay.md'.
 
 ## References
 The coding tasks (Tasks 2-4) were completed purely with knowledge gained during classes. They were all completed on EdStem.
