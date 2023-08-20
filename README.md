@@ -1,5 +1,5 @@
 # Machine-Learning-Portfolio
-A group of tasks demonstrating my understanding of Machine Learning. Futher descriptions of the coding tasks are in the notebooks or on README pages as necessary. The requirements of this task was to select a combination of portfolio items which total to 30 points.
+A group of tasks demonstrating my understanding of Machine Learning. Futher descriptions of the coding tasks are in the notebooks or on README pages as necessary. The notebook files are Jupyter Notebooks, and the relevent files end in '.ipynb'. Other files in the folder are either README.md files, images used in the notebooks or the data sources/ models. The requirements of this task was to select a combination of portfolio items which total to 30 points.
 
 ### Task One (5 Points) GitHub Repo
 Setting up GitHub Repo, complete with an organised file structure, and a README.md page with all necessary information (Project name and description, 
