@@ -1,18 +1,5 @@
-# Machine Learning
+# Linear Regression
+Linear regression is a supervised learning algorithm for machine learning, involving the linear method. It makes use of the gradient of a line of best fit for a dataset to predict where the next point may lie. To use this method, at least one value (x and y on a graph) must be known so that it can be substituted into an equation to find the other variable.
 
-## Python and Data Science
-
-### A Linear Regression Model
-
-Libraries Used:
-
-- [Numpy](https://www.youtube.com/watch?v=lLRBYKwP8GQ&t=1073s)
-- [Pandas](https://www.youtube.com/watch?v=zN2Hua6oII0&t=8s)
-- [matplotlib](https://www.youtube.com/watch?v=nzKy9GY12yo)
-- [scikit-learn intro](https://www.youtube.com/watch?v=rvVkVsG49uU)
-- [scikit-learn tut](https://www.youtube.com/watch?v=M9Itm95JzL0)
-- [pickle](https://www.youtube.com/watch?v=6Q56r_fVqgw)
-
-
-References
-
+# Grade Predictor
+This specific model predicts the grade that students will get on their 3rd assessment, based on factors such as their past 2 assessments, absences and living situations. It is a supervised learning environment because the 3rd assessment result is known and in the database, however it is removed from the calculations and compared to the prediction, providing an accuracy score.
