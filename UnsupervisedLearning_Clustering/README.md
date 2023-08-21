@@ -1,0 +1,5 @@
+# K-Means Clustering
+K-means clustering is an unsupervised machine learning technique used for partitioning a dataset into a predetermined number of distinct groups, or clusters. The algorithm works by assigning data points to the cluster with the nearest mean (centroid) and then recalculating the centroids based on the newly assigned points. This process continues until convergence, when the centroids stabilize and the algorithm halts. K-means is sensitive to the initial placement of centroids and is often used for data segmentation, pattern recognition, and exploratory data analysis. It is similar to sorting marbles into different piles and sorting them based on their colour, however the colours are gradient and you put marbles next to marbles of the closest colours.
+
+# Iris Flowers
+This model uses this technique to predict the species of an iris flower based on features such as the petal and sepal length and width. It is a highly accurate model compared to the linear regression model used in the grade predictor.
